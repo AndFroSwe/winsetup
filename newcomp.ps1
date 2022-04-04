@@ -1,0 +1,1 @@
+choco install -y --ignore-checksums python python2 visualstudio2019buildtools cmake vscode keepassxc dropbox bleachbit notepadplusplus 7zip vlc git foxitreader putty gimp inkscape libreoffice-fresh microsoft-teams spotify msys2 em-client
